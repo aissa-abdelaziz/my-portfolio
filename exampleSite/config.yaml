@@ -113,11 +113,11 @@ params:
       enable : true
       showOnScrollUp : true
     menus:
-      disableAbout: false
+      disableAbout: true
       disableExperience: false
       disableEducation: false
       disableProjects: false
-      disableAchievements: false
+      disableAchievements: true
       disableContact: false
 
   # Hero
@@ -143,9 +143,9 @@ params:
           url: https://example.com
         - icon: fab fa-x-twitter
           url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+        - icon: fas fa-link
+          url: https://example.com
+
 
   # About
   #about:
@@ -222,7 +222,7 @@ params:
           content: I worked as a computer vision on VFI project .
         content: | 
         I worked as a computer vision on VFI project .
-        
+
           - Supported the productionization of Video Frame Interpolation (VFI) algorithms for inference on edge devices.
           - Conducted research and analysis to curate a list of top State-of-the-Art (SOTA) candidates ranked by feasibility to
                        be deployed at the edge, based on speed, quality, and memory consumption.
