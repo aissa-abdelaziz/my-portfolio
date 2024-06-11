@@ -221,10 +221,10 @@ params:
           enable: true
           content: I worked as a computer vision on VFI project .
         content: |
-          • Supported the productionization of Video Frame Interpolation (VFI) algorithms for inference on edge devices.
-          • Conducted research and analysis to curate a list of top State-of-the-Art (SOTA) candidates ranked by feasibility to
+          - Supported the productionization of Video Frame Interpolation (VFI) algorithms for inference on edge devices.
+          - Conducted research and analysis to curate a list of top State-of-the-Art (SOTA) candidates ranked by feasibility to
                        be deployed at the edge, based on speed, quality, and memory consumption.
-          • Transformed selected models into formats optimized for edge deployment and ensured compatibility and efficiency."
+          - Transformed selected models into formats optimized for edge deployment and ensured compatibility and efficiency."
       - job: "Data Science Intern"
         company: "Assystem"
         companyUrl: "https://example.com"
