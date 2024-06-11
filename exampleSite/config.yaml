@@ -56,7 +56,7 @@ params:
   title: "Aissa ABDELAZIZ"
   description: "Welcome to my site, where you can learn about my work in AI and computer vision."
   # staticPath: ""  # The path to serve the static files from
-  favicon: "\images\icon.gif"
+  favicon: "\icon.gif"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -111,7 +111,7 @@ params:
     # searchPlaceholder: "Search"
     stickyNavBar:
       enable : true
-      showOnScrollUp : true
+      showOnScrollUp : false
     menus:
       disableAbout: false
       disableExperience: false
