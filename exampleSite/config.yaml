@@ -220,7 +220,9 @@ params:
         info:
           enable: true
           content: I worked as a computer vision on VFI project .
-        content: |
+        content: | 
+        I worked as a computer vision on VFI project .
+        
           - Supported the productionization of Video Frame Interpolation (VFI) algorithms for inference on edge devices.
           - Conducted research and analysis to curate a list of top State-of-the-Art (SOTA) candidates ranked by feasibility to
                        be deployed at the edge, based on speed, quality, and memory consumption.
@@ -233,6 +235,8 @@ params:
           enable: true
           content: I worked as a Data Science on table detection in documents .
         content: |
+         I worked as a Data Science on table detection in documents .
+
           - Conducted a comprehensive review of state-of-the-art methodologies in deep learning to extract tabular data
           efficiently.
           - Collected and preprocessed a tabular dataset to be utilized for model training, ensuring data quality and integrity.
