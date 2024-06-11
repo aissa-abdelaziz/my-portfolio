@@ -1,27 +1,29 @@
 {{ if .Site.Params.about.enable | default false }}
-<section id="about" class="py-3 py-sm-5">
+<section id="about" class="pt-2 pb-3 pb-sm-5">
     <div class="container bg-transparent">
-        <h3 class="text-center bg-transparent mb-4" style="font-size: 2.5rem;">{{ .Site.Params.about.title }}</h3>
-        <div class="bg-transparent row justify-content-center px-3 py-4 text-center">
-            {{ if .Site.Params.about.image }}
-            <div class="col-sm-12 col-md-8 col-lg-4 mb-5 mb-sm-0 mb-md-5 mb-lg-0 d-none d-sm-none d-md-block">
-                <div class="image d-flex justify-content-center px-5">
-                    <img src="{{ .Site.Params.about.image }}" class="img-thumbnail mx-auto rounded-circle" alt="" style="width: 150px; height: 150px;">
+        <div class="border p-4 rounded" style="border-width: 2px; border-color: #ddd;">
+            <h3 class="text-center bg-transparent mb-4" style="font-size: 2.5rem;">{{ .Site.Params.about.title }}</h3>
+            <div class="bg-transparent row justify-content-center px-3 py-4 text-center">
+                {{ if .Site.Params.about.image }}
+                <div class="col-sm-12 col-md-8 col-lg-4 mb-4 mb-sm-0 mb-md-5 mb-lg-0 d-none d-sm-none d-md-block">
+                    <div class="image d-flex justify-content-center px-5">
+                        <img src="{{ .Site.Params.about.image }}" class="img-thumbnail mx-auto rounded-circle" alt="" style="width: 150px; height: 150px;">
+                    </div>
                 </div>
-            </div>
-            {{ end }}
-            <div class="col-sm-12 col-md-12 col-lg-8 content d-flex flex-column justify-content-center align-items-center">
-                <div style="max-width: 600px;">
-                    {{ .Site.Params.about.content | markdownify }}
-                </div>
-                {{ if .Site.Params.about.skills.enable }}
-                <h4 class="mt-4" style="font-size: 1.75rem;">{{ .Site.Params.about.skills.title }}</h4>
-                <ul class="list-unstyled">
-                    {{ range .Site.Params.about.skills.items }}
-                    <li>{{ . | markdownify }}</li>
-                    {{ end }}
-                </ul>
                 {{ end }}
+                <div class="col-sm-12 col-md-12 col-lg-8 content d-flex flex-column justify-content-center align-items-center">
+                    <div style="max-width: 600px;">
+                        {{ .Site.Params.about.content | markdownify }}
+                    </div>
+                    {{ if .Site.Params.about.skills.enable }}
+                    <h4 class="mt-4" style="font-size: 1.75rem;">{{ .Site.Params.about.skills.title }}</h4>
+                    <ul class="list-unstyled">
+                        {{ range .Site.Params.about.skills.items }}
+                        <li>{{ . | markdownify }}</li>
+                        {{ end }}
+                    </ul>
+                    {{ end }}
+                </div>
             </div>
         </div>
     </div>
