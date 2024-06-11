@@ -147,24 +147,23 @@ params:
           url: https://www.linkedin.com/in/aissa-abdelaziz-50b8b819b/
 
   # About
-  #about:
-   # enable: true
-   # title: "About Me"
-    #image: "/images/aissa.jpeg"
-    #content: |-
-     # I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+  about:
+    enable: true
+    title: "About Me"
+    content: |-
+      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
 
-      #I am currently working on a project that will be used to help people find the best way to get around the city.
-    #skills:
-     # enable: true
-      #title: "Here are a few technologies I've been working with recently:"
-      #items:
-       # - "HTML"
-        #- "CSS"
-        #- "JavaScript"
-        #- "React"
-        #- "Node"
-        #- "Express" 
+      I am currently working on a project that will be used to help people find the best way to get around the city.
+    skills:
+      enable: true
+      title: "Here are a few technologies I've been working with recently:"
+      items:
+        - "HTML"
+        - "CSS"
+        - "JavaScript"
+        - "React"
+        - "Node"
+        - "Express" 
 
 
   # Education
@@ -199,7 +198,7 @@ params:
         school:
           name: "Institute of Electrical and Electronic Engineering (IGEE) of Algeria"
           url: "https://igee.univ-boumerdes.dz/Graduation.html"
-          date: "2019 - 2022"
+        date: "2019 - 2022"
         GPA: "4.2 out of 5.0"
         content: |-
           Relevant Courses:
@@ -220,10 +219,10 @@ params:
           enable: true
           content: I worked as a computer vision on VFI project .
         content: |
-          • Supported the productionization of Video Frame Interpolation (VFI) algorithms for inference on edge devices.
-          • Conducted research and analysis to curate a list of top State-of-the-Art (SOTA) candidates ranked by feasibility to
+          - Supported the productionization of Video Frame Interpolation (VFI) algorithms for inference on edge devices.
+          - Conducted research and analysis to curate a list of top State-of-the-Art (SOTA) candidates ranked by feasibility to
                        be deployed at the edge, based on speed, quality, and memory consumption.
-          • Transformed selected models into formats optimized for edge deployment and ensured compatibility and efficiency."
+          - Transformed selected models into formats optimized for edge deployment and ensured compatibility and efficiency."
       - job: "Data Science Intern"
         company: "Assystem"
         companyUrl: "https://example.com"
