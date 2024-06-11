@@ -125,8 +125,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Aissa ."
-    subtitle: "👨‍💻 Computer Vision Enthusiast 🎓 Pursuing MVA @ ENS Paris-Saclay"
-    content: "I am a passionate computer vision and AI student. Currently, I am pursuing a Master’s degree in AI and Computer Vision with a strong theoretical background in machine learning and deep learning. I enjoy solving challenging machine learning problems and building AI models. With a versatile engineering background, I am young, motivated, hardworking, self-taught, and passionate about innovation."
+    subtitle: "Computer Vision Enthusiast 👨‍💻"
+    content: "I am a passionate computer vision and AI student pursuing the Master MVA: Mathematics, Vision, and AI at ENS Paris-Saclay 🎓. I enjoy solving challenging AI problems, building models, and conducting AI research. I am young, motivated, hardworking, self-taught, and passionate about innovation."
     image: /images/aissa_style.jpeg
     bottomImage:
       enable: true
