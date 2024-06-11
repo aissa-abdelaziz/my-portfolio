@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Aissa Profile"
+title: "Hugo Profile"
 theme: hugo-profile
 
 outputs:
@@ -53,10 +53,10 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Aissa Profile"
-  description: Welcome to my site, where you can learn about my work in AI and computer vision.
+  title: "Hugo Profile"
+  description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "\icon.gif"
+  favicon: "/fav.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -106,7 +106,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Aissa Profile" # Brand name for the brand | default is the title variable
+    #brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
     disableSearch: true
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -125,8 +125,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Aissa ."
-    subtitle: "I am copmuter vision and AI Enthusiast 👨‍💻"
-    content: "I am a passionate computer vision and AI student pursuing the Master MVA: Mathematics, Vision, and AI at ENS Paris-Saclay 🎓. I enjoy solving challenging AI problems, building models, and conducting AI research."
+    subtitle: "I am copmuter vision and AI Enthusiast"
+    content: "A passionate copmuter vision and AI student. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/aissa_2.png
     bottomImage:
       enable: true
