@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Aissa Profile"
 theme: hugo-profile
 
 outputs:
@@ -53,10 +53,10 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "Aissa Profile"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "\image_circle.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -126,7 +126,7 @@ params:
     intro: "Hi, my name is"
     title: "Aissa ."
     subtitle: "Copmuter vision and AI Enthusiast 👨‍💻"
-    content: "I am a passionate computer vision and AI student pursuing the Master MVA: Mathematics, Vision, and AI at ENS Paris-Saclay 🎓"
+    content: "I am a passionate computer vision and AI student pursuing the Master MVA : Mathematics, Vision, and AI at ENS Paris-Saclay 🎓"
     image: /images/aissa_2.png
     bottomImage:
       enable: true
