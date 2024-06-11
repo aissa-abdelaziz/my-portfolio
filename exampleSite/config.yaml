@@ -140,11 +140,11 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/aissa-abdelaziz
         - icon: fab fa-x-twitter
-          url: https://example.com
+          url: https://x.com/AbdelazizAisaa?t=vDI-79BNvYiHdtduYuQLTg&s=09
         - icon: fa-brands fa-linkedin
-          url: https://example.com
+          url: https://www.linkedin.com/in/aissa-abdelaziz-50b8b819b/
 
   # About
   #about:
@@ -324,18 +324,7 @@ params:
     #   messageCaption: "Enter your message here"
 
   footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: Recent Posts
-      enable: true
-      disableFeaturedImage: false
-    socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+
 
   # List pages like blogs and posts
   listPages:
