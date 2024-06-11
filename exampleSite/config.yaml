@@ -143,7 +143,7 @@ params:
           url: https://example.com
         - icon: fab fa-x-twitter
           url: https://example.com
-        - icon: fab fa-linkedin
+        - icon: fa-brands fa-linkedin
           url: https://example.com
 
   # About
