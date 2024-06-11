@@ -213,65 +213,31 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
+      - job: "Software Computer Vision Intern"
         company: "GoPro"
         companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+        date: "April 2024 - present"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: I worked as a computer vision on VFI project .
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Junior Software Developer"
-        company: "Apple"
+          • Supported the productionization of Video Frame Interpolation (VFI) algorithms for inference on edge devices.
+          • Conducted research and analysis to curate a list of top State-of-the-Art (SOTA) candidates ranked by feasibility to
+                       be deployed at the edge, based on speed, quality, and memory consumption.
+          • Transformed selected models into formats optimized for edge deployment and ensured compatibility and efficiency."
+      - job: "Data Science Intern"
+        company: "Assystem"
         companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+        date: "June 2023 – August 2023"
         info:
-          enable: false
-        featuredLink:
           enable: true
-          url: "https://example.com"
+          content: I worked as a Data Science on table detection in documents .
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          - Conducted a comprehensive review of state-of-the-art methodologies in deep learning to extract tabular data
+          efficiently.
+          - Collected and preprocessed a tabular dataset to be utilized for model training, ensuring data quality and integrity.
+          - Trained and evaluated the selected graph-based learning model, with a focus on performance optimization and
+            scalability.
 
   # Achievements
   achievements:
