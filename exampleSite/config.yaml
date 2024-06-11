@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Aissa ABDELAZIZ"
 theme: hugo-profile
 
 outputs:
@@ -289,7 +289,7 @@ params:
       - title: Facebook Hackathon Winner
         content: Developed a product using Artificial Intelligence.
         image: /images/achievment.jpg
-      - title: Hugo Profile
+      - title: Aissa ABDELAZIZ
         content: Developed a theme and getting 1K+ downloads per month.
         url: "https://github.com/gurusabarish/hugo-profile"
         image: /images/achievment.jpg
