@@ -127,7 +127,7 @@ params:
     title: "Aissa ."
     subtitle: "Computer Vision Enthusiast 👨‍💻"
     content: "I am a passionate computer vision and AI student pursuing the Master MVA: Mathematics, Vision, and AI at ENS Paris-Saclay 🎓. I enjoy solving challenging AI problems, building models, and conducting AI research. I am young, motivated, hardworking, self-taught, and passionate about innovation."
-    image: /images/aissa_style.jpeg
+    image: /images/aissa_style2.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
