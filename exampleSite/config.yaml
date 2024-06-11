@@ -220,7 +220,7 @@ params:
         info:
           enable: true
           content: I worked as a computer vision on VFI project .
-        content: | 
+        content: |-
         I worked as a computer vision on VFI project .
 
           - Supported the productionization of Video Frame Interpolation (VFI) algorithms for inference on edge devices.
@@ -234,7 +234,7 @@ params:
         info:
           enable: true
           content: I worked as a Data Science on table detection in documents .
-        content: |
+        content: |-
          I worked as a Data Science on table detection in documents .
 
           - Conducted a comprehensive review of state-of-the-art methodologies in deep learning to extract tabular data
