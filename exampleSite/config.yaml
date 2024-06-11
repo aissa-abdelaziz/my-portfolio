@@ -125,7 +125,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Aissa ."
-    subtitle: "I am copmuter vision and AI Enthusiast 👨‍💻"
+    subtitle: "Copmuter vision and AI Enthusiast 👨‍💻"
     content: "I am a passionate computer vision and AI student pursuing the Master MVA: Mathematics, Vision, and AI at ENS Paris-Saclay 🎓."
     image: /images/aissa_2.png
     bottomImage:
