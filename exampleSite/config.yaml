@@ -53,8 +53,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Aissa Profile"
+  description: "Welcome to my site, where you can learn about my work in AI and computer vision."
   # staticPath: ""  # The path to serve the static files from
   favicon: "/icon.gif"
 
