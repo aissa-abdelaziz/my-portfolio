@@ -127,11 +127,10 @@ params:
     title: "Aissa ."
     subtitle: "Copmuter Vision and AI Enthusiast 👨‍💻"
     content: |
-      I am a passionate computer vision and AI student pursuing the Master MVA : Mathematics, Vision, and AI at ENS Paris-Saclay 🎓
-        
-        📧 aissa.abdelaziz@ens-paris-saclay.fr                   
-        
-        📍 Based in Paris,France 🇫🇷
+      I am a passionate student specializing in Computer Vision and AI, currently pursuing the Master MVA : Mathematics, Vision, and AI at ENS Paris-Saclay 🎓.
+
+      📧 Email: aissa.abdelaziz@ens-paris-saclay.fr  
+      📍 Based in Paris, France 🇫🇷
     image: /images/aissa_style3.png
     bottomImage:
       enable: true
