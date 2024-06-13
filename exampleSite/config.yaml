@@ -255,7 +255,7 @@ params:
         image: /images/projects/image_matting.jpg 
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://ipolcore.ipol.im/demo/clientApp/demo.html?id=532
         badges:
           - "IPOL"
           - "Python"
