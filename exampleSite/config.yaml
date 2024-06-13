@@ -288,20 +288,21 @@ params:
           - icon: fab fa-github
             url: https://github.com/aissa-abdelaziz
 
-  #Contact
+  # Contact
   contact:
     enable: true
     title: "Contact"
     content: |
-        Whether you have a question or just want to say hi, I’ll try my best to get back to you! 
+      Have something cool to discuss or just want to say hey? I'm all ears!
 
-    btnName: Send Message
+    btnName: Let's Connect
     btnLink: mailto:abdelazizaissa2002@gmail.com
     formspree:
-      enable: true # `contact.email` value will be ignored
-      formId: xdoqqzqq # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-      emailCaption: "Enter your email address"
-      messageCaption: "Enter your message here"
+      enable: true
+      formId: xdoqqzqq
+      emailCaption: "Your Email"
+      messageCaption: "Drop Me a Line"
+
 
   footer:
 
