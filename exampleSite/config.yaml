@@ -249,16 +249,20 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: Image Matting with A Closed Form Solution
+        content: The objective of this project is to produce a reproducible article, submitted to the IPOL journal. This includes
+          the article itself, source code, and the development of an online demo for the ’A Closed Form Solution to Natural
+          Image Matting’ paper proposed by A. Levin, D. Lischinski, and Y. Weiss. The proposed algorithm accurately
+          estimates foreground objects in images, based on local smoothness assumptions regarding foreground and
+          background colors, known as the color-line model. It necessitates sparse scribble constraints as prior knowledge .
+        image: \images\image_matting.jpg
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "IPOL"
+          - "Python"
+          - "Docker"
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
