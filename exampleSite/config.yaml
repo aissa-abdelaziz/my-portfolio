@@ -153,7 +153,8 @@ params:
     content: |-
       I am a Master's student in AI and Computer Vision with a solid background in machine learning and deep learning. Passionate about solving complex problems and building AI models, I bring a versatile engineering skill set. Motivated, hardworking, and eager to learn, I am dedicated to advancing in the field of AI. 
 
-      I am currently doing my final year internship as a Software Engineer in Computer Vision at GoPro 📷 in Paris 🇫🇷, where I am working on Video Frame Interpolation (VFI) 🎥.    skills:
+      I am currently doing my final year internship as a Software Engineer in Computer Vision at GoPro 📷 in Paris 🇫🇷, where I am working on Video Frame Interpolation (VFI) 🎥.    
+    skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
