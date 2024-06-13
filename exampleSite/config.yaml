@@ -54,7 +54,9 @@ markup:
 
 params:
   title: "Aissa ABDELAZIZ"
-  description: Text about my cool site
+  description:   Welcome! Dive into my portfolio to explore my journey, projects, and interests in Computer Vision and AI . 
+  
+
   # staticPath: ""  # The path to serve the static files from
   favicon: "/image_circle.png"
 
