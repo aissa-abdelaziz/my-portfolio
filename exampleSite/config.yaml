@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://aissa-abdelaziz.netlify.app/"
 languageCode: "en-us"
 title: "Aissa ABDELAZIZ"
 theme: hugo-profile
@@ -24,16 +24,16 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
-      weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
+    #- identifier: blog
+    # name: Blog
+    #  title: Blog posts
+    #  url: /blogs
+    #  weight: 1
+    #- identifier: gallery
+    #  name: Gallery
+    #  title: Blog posts
+    #  url: /gallery
+    #  weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -279,14 +279,14 @@ params:
         image: /images/projects/profile2.jpg
         featured:
           name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          link: https://aissa-abdelaziz.netlify.app/
         badges:
           - "Hugo"
           - "Bootstrap"
           - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/aissa-abdelaziz
 
   #Contact
   contact:
