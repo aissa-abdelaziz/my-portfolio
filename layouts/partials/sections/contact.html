@@ -8,7 +8,7 @@
                     <div class="text-center">
                         {{ .Site.Params.contact.content | emojify | markdownify }}
                         <br>
-                        📧 {{ .Site.Params.contact.email }}
+                        📧 <a href="mailto:{{ .Site.Params.contact.email | default "aissa.abdelaziz@ens-paris-saclay.fr" }}">{{ .Site.Params.contact.email | default "aissa.abdelaziz@ens-paris-saclay.fr" }}</a><br>
                         <br>
                         📍 Based in Paris 🇫🇷
                     </div>

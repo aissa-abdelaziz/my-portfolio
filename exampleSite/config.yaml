@@ -294,8 +294,7 @@ params:
     title: "Contact Me"
     content: |
         Whether you have a question or just want to say hi, I’ll try my best to get back to you! 
-          📧 aissa.abdelaziz@ens-paris-saclay.fr 
-          📍 Based in Paris 🇫🇷
+
     btnName: Send Message
     btnLink: mailto:abdelazizaissa2002@gmail.com
     formspree:
