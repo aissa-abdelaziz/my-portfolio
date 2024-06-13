@@ -291,7 +291,7 @@ params:
   #Contact
   contact:
     enable: true
-    title: "Contact Me"
+    title: "Contact"
     content: |
         Whether you have a question or just want to say hi, I’ll try my best to get back to you! 
 
