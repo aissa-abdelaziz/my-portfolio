@@ -278,7 +278,7 @@ params:
 
       - title: Bayesian Image Super-Resolution
         content: Super-Resolution approach from a Bayesian perspective by estimating the unknown point spread function.
-        image: /images/projects/image_SR.png
+        image: /images/projects/sr_image.jpg
         badges:
           - "Pytorch"
           - "Bayesian ML"
