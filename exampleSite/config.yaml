@@ -268,7 +268,7 @@ params:
 
       - title: Sign Language Translation
         content: Training the multimodal transformer model to translate sign language videos into text . 
-        image: /images/projects/sign_translation.png
+        image: /images/projects/SLT.png
         badges:
           - "Pytorch"
           - "Google Cloud"
