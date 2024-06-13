@@ -213,29 +213,29 @@ params:
     items:
       - job: "Software Computer Vision Intern"
         company: "GoPro"
-        companyUrl: "https://example.com"
+        companyUrl: "https://gopro.com/fr/fr/"
         date: "April 2024 - present"
         info:
           enable: true
-          content: I worked as a computer vision on VFI project .
+          content: I worked as a computer vision intern on the VFI project.
         content: |
-          - Supported the productionization of Video Frame Interpolation (VFI) algorithms for inference on edge devices.
-          - Conducted research and analysis to curate a list of top State-of-the-Art (SOTA) candidates ranked by feasibility to
-                       be deployed at the edge, based on speed, quality, and memory consumption.
-          - Transformed selected models into formats optimized for edge deployment and ensured compatibility and efficiency."
+          I worked on the Video Frame Interpolation (VFI) project:
+            - Supported the productionization of Video Frame Interpolation (VFI) algorithms for inference on edge devices.
+            - Conducted research and analysis to curate a list of top State-of-the-Art (SOTA) candidates ranked by feasibility to be deployed at the edge, based on speed, quality, and memory consumption.
+            - Transformed selected models into formats optimized for edge deployment and ensured compatibility and efficiency.
       - job: "Data Science Intern"
         company: "Assystem"
-        companyUrl: "https://example.com"
+        companyUrl: "https://www.assystem.com/fr/"
         date: "June 2023 – August 2023"
         info:
           enable: true
-          content: I worked as a Data Science on table detection in documents .
+          content: I worked as a Data Science intern on table detection in documents.
         content: |
-          - Conducted a comprehensive review of state-of-the-art methodologies in deep learning to extract tabular data
-          efficiently.
-          - Collected and preprocessed a tabular dataset to be utilized for model training, ensuring data quality and integrity.
-          - Trained and evaluated the selected graph-based learning model, with a focus on performance optimization and
-            scalability.
+          I worked on complicated table detection in documents:
+            - Conducted a comprehensive review of state-of-the-art methodologies in deep learning to extract tabular data efficiently.
+            - Collected and preprocessed a tabular dataset to be utilized for model training, ensuring data quality and integrity.
+            - Trained and evaluated the selected graph-based learning model, with a focus on performance optimization and scalability.
+
 
 
   # projects
