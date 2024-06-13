@@ -291,7 +291,7 @@ params:
         image: /images/projects/ccvae.png
         badges:
           - "Pytorch"
-          - "Bayesian ML"
+          - "VAE"
         links:
           - icon: fab fa-github
             url: https://github.com/aissa-abdelaziz/Bayesian-Image-Super-Resolution
