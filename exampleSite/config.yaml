@@ -126,7 +126,10 @@ params:
     intro: "Hi, my name is"
     title: "Aissa ."
     subtitle: "Copmuter Vision and AI Enthusiast 👨‍💻"
-    content: "I am a passionate computer vision and AI student pursuing the Master MVA : Mathematics, Vision, and AI at ENS Paris-Saclay 🎓"
+    content: |
+      I am a passionate computer vision and AI student pursuing the Master MVA : Mathematics, Vision, and AI at ENS Paris-Saclay 🎓
+                            
+        -📍 Based in Paris 🇫🇷
     image: /images/aissa_style3.png
     bottomImage:
       enable: true
