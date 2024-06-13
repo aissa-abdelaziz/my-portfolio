@@ -249,7 +249,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Image Matting with A Closed Form Solution
+      - title: Image Matting Using A Closed Form Solution
         content: Accurately estimates foreground objects in images, based on local smoothness assumptions regarding foreground and
           background colors, known as the color-line model.
         image: /images/projects/image_matting.jpg 
@@ -266,32 +266,25 @@ params:
           - icon: fab fa-researchgate
             url: https://www.ipol.im/pub/pre/532/
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+      - title: Sign Language Translation
+        content: Training the multimodal transformer model to translate sign language videos into text . 
+        image: /images/projects/sign_translation.png
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Pytorch"
+          - "Google Cloud"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/aissa-abdelaziz/Sign-Language-Translation
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://aissa-abdelaziz.netlify.app/
+      - title: Bayesian Image Super-Resolution
+        content: Super-Resolution approach from a Bayesian perspective by estimating the unknown point spread function.
+        image: /images/projects/image_SR.png
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Pytorch"
+          - "Bayesian ML"
         links:
           - icon: fab fa-github
-            url: https://github.com/aissa-abdelaziz
+            url: https://github.com/aissa-abdelaziz/Bayesian-Image-Super-Resolution
 
   # Contact
   contact:
