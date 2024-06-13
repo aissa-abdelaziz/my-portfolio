@@ -177,7 +177,7 @@ params:
           name: "Ecole Normale Supérieure Paris-Saclay"
           url: "https://www.master-mva.com/"
         date: "2023 - 2024"
-        GPA: "3.8 out of 5.0"
+        GPA: "4 out of 4"
         content: |-
           Relevant Courses:
             - Object Recognition and Computer Vision, Deep Learning in Practice, Probabilistic Graphical
@@ -188,7 +188,7 @@ params:
           name: "Université Paris-Saclay"
           url: "https://www.universite-paris-saclay.fr/en"
         date: "2022 - 2023"
-        GPA: "3.9 out of 5.0"
+        GPA: "3.5 out of 4"
         content: |-
           Relevant Courses:
           - Machine Vision, Machine Learning, Algorithms with Python, Embedded Systems, Image
@@ -199,7 +199,7 @@ params:
           name: "Institute of Electrical and Electronic Engineering (IGEE) of Algeria"
           url: "https://igee.univ-boumerdes.dz/Graduation.html"
         date: "2019 - 2022"
-        GPA: "4.2 out of 5.0"
+        GPA: "3.5 out of 4 (Ranking: Top 3%)"
         content: |-
           Relevant Courses:
           - Computer Architecture, Programming in C, Digital Systems with VHDL, Linear Algebra,
@@ -291,8 +291,10 @@ params:
   #Contact
   contact:
     enable: true
-    # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you! aissa.abdelaziz@ens-paris-saclay.fr
+    title: "Contact Me"
+    content: |
+        Whether you have a question or just want to say hi, I’ll try my best to get back to you! 
+            - aissa.abdelaziz@ens-paris-saclay.fr
     btnName: Send Message
     btnLink: mailto:abdelazizaissa2002@gmail.com
     formspree:
