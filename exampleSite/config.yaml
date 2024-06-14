@@ -54,7 +54,7 @@ markup:
 
 params:
   title: "Aissa ABDELAZIZ"
-  description:   Welcome! Dive into my portfolio to explore my journey, projects, and interests in Computer Vision and AI . 
+  description: Hi there! I'm Aissa, a passionate Computer Vision and AI student. Dive into my portfolio to discover my professional journey, academic background, innovative projects, and technical skills.
   
 
   # staticPath: ""  # The path to serve the static files from
@@ -108,7 +108,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Welcome to my profile" # Brand name for the brand | default is the title variable
+    brandName: "Welcome to my portfolio" # Brand name for the brand | default is the title variable
     disableSearch: true
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -188,8 +188,8 @@ params:
           Relevant Courses:
             - Object Recognition and Computer Vision, Deep Learning in Practice, Probabilistic Graphical
               Models and Deep Generative Models, Bayesian Machine Learning, Deep Learning for Medical Imaging, Learning
-              and Generation by Sampling Probabilities, Deep Learning for Signal Processing, Reproducible Research Project
-      - title: "Master 1 Computer Vision"
+              and Generation by Sampling Probabilities, Deep Learning for Signal Processing, Reproducible Research Project 
+      - title: "Master 1 Computer Vision and Robotics"
         school:
           name: "Université Paris-Saclay"
           url: "https://www.universite-paris-saclay.fr/en"
@@ -198,7 +198,7 @@ params:
         content: |-
           Relevant Courses:
           - Machine Vision, Machine Learning, Algorithms with Python, Embedded Systems, Image
-            Processing, Signal Processing, Robotics, Advanced Control Systems
+            Processing, Signal Processing, Robotics, Advanced Control Systems 
 
       - title: "Bachelor in Electronics and Computer Engineering"
         school:
@@ -250,8 +250,7 @@ params:
     # title: "Custom Name"
     items:
       - title: Image Matting Using A Closed Form Solution
-        content: Accurately estimates foreground objects in images, based on local smoothness assumptions regarding foreground and
-          background colors, known as the color-line model.
+        content: Accurately estimates foreground objects in images, based on local smoothness assumptions regarding foreground and background colors, known as the color-line model.
         image: /images/projects/image_matting.jpg 
         featured:
           name: Demo
@@ -295,6 +294,16 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/aissa-abdelaziz/Bayesian-Image-Super-Resolution
+
+        - title: Data Augmentation Using GANs for Classification Task
+          content: Develop a DCGAN to generate new images of 3D animals (Cows and Horses) to be added to the original dataset to train a CNN classifier . 
+          image: /images/projects/ccvae.png
+          badges:
+            - "Pytorch"
+            - "GAN"
+          links:
+            - icon: fab fa-github
+              url: https://github.com/aissa-abdelaziz/Bayesian-Image-Super-Resolution
 
   # Contact
   contact:
