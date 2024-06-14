@@ -295,15 +295,15 @@ params:
           - icon: fab fa-github
             url: https://github.com/aissa-abdelaziz/Bayesian-Image-Super-Resolution
 
-        - title: Data Augmentation Using GANs for Classification Task
-          content: Develop a DCGAN to generate new images of 3D animals (Cows and Horses) to be added to the original dataset to train a CNN classifier . 
-          image: /images/projects/ccvae.png
-          badges:
-            - "Pytorch"
-            - "GAN"
-          links:
-            - icon: fab fa-github
-              url: https://github.com/aissa-abdelaziz/Bayesian-Image-Super-Resolution
+      - title: Data Augmentation Using GANs for Classification Task
+        content: Develop a DCGAN to generate new images of 3D animals (Cows and Horses) to be added to the original dataset to train a CNN classifier . 
+        image: /images/projects/ccvae.png
+        badges:
+          - "Pytorch"
+          - "GAN"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/aissa-abdelaziz/Bayesian-Image-Super-Resolution
 
   # Contact
   contact:
