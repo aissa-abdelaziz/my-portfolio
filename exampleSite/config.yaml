@@ -293,24 +293,24 @@ params:
           - "VAE"
         links:
           - icon: fab fa-github
-            url: https://github.com/aissa-abdelaziz/Bayesian-Image-Super-Resolution
+            url: https://github.com/aissa-abdelaziz/Capturing-Label-Characteristics-in-VAEs
 
-      - title: Data Augmentation Using GANs for Classification Task
+      - title: Data Augmentation in Classification using GAN
         content: Develop a DCGAN to generate new images of 3D animals (Cows and Horses) to be added to the original dataset to train a CNN classifier . 
-        image: /images/projects/ccvae.png
+        image: /images/projects/gan.png
         badges:
           - "Pytorch"
           - "GAN"
         links:
           - icon: fab fa-github
-            url: https://github.com/aissa-abdelaziz/Bayesian-Image-Super-Resolution
+            url: https://github.com/aissa-abdelaziz/GAN
 
   # Contact
   contact:
     enable: true
     title: "Contact"
     content: |
-      Have something cool to discuss or just want to say hey? I'm all ears!
+      Got an exciting idea or just want to say hello? I'm all ears and eager to connect!
 
     btnName: Let's Connect
     btnLink: mailto:abdelazizaissa2002@gmail.com
