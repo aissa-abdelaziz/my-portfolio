@@ -287,7 +287,7 @@ params:
 
       - title: Capturing Label Characteristics in VAE
         content: Develop and train a CCVAE model that integrates labels into VAEs, thereby enhancing its capability to capture rich characteristics associated with those labels.
-        image: /images/projects/ccvae.png
+        image: /images/projects/CCVAE2.png
         badges:
           - "Pytorch"
           - "VAE"
